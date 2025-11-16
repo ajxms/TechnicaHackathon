@@ -2,10 +2,10 @@
 AI Course Advisor: Functionality and Real-World Application
     This application serves as a dynamic, AI-powered tool to assist university students in optimizing their academic course selection for an upcoming semester. By combining structured user input with        100generative AI, it addresses the common real-world challenge of building a balanced and progress-focused schedule.
 
-Core Problem
+Core Problem:
     Many college students are confused about what classes to take at the beginning of their college life or their next semester. Sure they could talk to an advisor, but it would mean going through the       hassle of being on weekdays in the office hours and schedule an appointment with the advisor, which takes an unnecessarily long amount of time. They wouldn’t get immediate feedback on their problems.
 
-Functionality
+Functionality:
     The program's functionality is structured across several sequential screens, designed to gather comprehensive data before generating recommendations.
 
 1. Student Profile Data Collection
